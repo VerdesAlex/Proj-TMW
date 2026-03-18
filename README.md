@@ -51,3 +51,8 @@ Include recomandări sănătoase.
   - Distribuția meselor din totalul zilnic
 - Tabel:
   - Calorii per masă
+---
+
+### Mese
+- Mese:
+  - Sugestii de mese in baza alimentelor alese, a modului ales (scazut/crescut in greutate) si a mesei resp din zi
