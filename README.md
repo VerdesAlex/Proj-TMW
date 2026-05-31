@@ -1,17 +1,58 @@
-# tmw_health_app
+# Proj-TMW
 
-A new Flutter project.
+## Sumar
+Aplicație de monitorizare:
+- Kg
+- Talie
+- Calorii
+- Mese
 
-## Getting Started
+Include recomandări sănătoase.
 
-This project is a starting point for a Flutter application.
+### Moduri
+- Slăbit
+- Creștere în greutate (gains)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Funcționalități
+- Introducere zilnică a informațiilor
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Trackere
+
+### KG
+- Grafice evoluție kg:
+  - Bar chart
+  - Line chart
+- Semafor evoluție:
+  - Verde → scădere
+  - Galben → constant
+  - Roșu → creștere  
+  *(sau invers, în funcție de modul ales)*
+
+---
+
+### Talie
+- Grafice evoluție talie:
+  - Bar chart
+  - Line chart
+- Semafor evoluție:
+  - Verde → scădere
+  - Galben → constant
+  - Roșu → creștere  
+  *(sau invers, în funcție de modul ales)*
+
+---
+
+### Calorii
+- Pie chart:
+  - Distribuția meselor din totalul zilnic
+- Tabel:
+  - Calorii per masă
+---
+
+### Mese
+- Mese:
+  - Sugestii de mese in baza alimentelor alese, a modului ales (scazut/crescut in greutate) si a mesei resp din zi
